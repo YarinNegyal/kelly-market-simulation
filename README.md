@@ -1,6 +1,6 @@
 # Kelly Betting Under Regime-Switching Markets
 
-This project explores Kelly-style betting strategies using Monte Carlo simulation. 
+A Monte Carlo simulatino exploring Kelly-style trading strategies under crash risk and regime-switching market conditions. 
 
 Starting from a simple fixed-edge betting model, I extended the simulation to include:
 
@@ -33,3 +33,8 @@ I then compared several trading strategies based on long-run growth and drawdown
 - NumPy
 - Matplotlib
 - Monte Carlo simulation
+
+## Running the project
+The full simulation and analysis can be found in:
+'kelly_regime_simulation.ipynb'
+
