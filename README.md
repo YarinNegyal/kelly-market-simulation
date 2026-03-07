@@ -20,6 +20,13 @@ I then compared several trading strategies based on long-run growth and drawdown
 
 ## Example results
 
+### Strategy Risk vs Growth
+
+![Strategy comparison](figures/strategy_scatter.png)
+
+### Kelly frontier (Risk vs Growth)
+
+![Kelly frontier](figures/kelly_frontier.png)
 ## Tools used
 
 - Python
