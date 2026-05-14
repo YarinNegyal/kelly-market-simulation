@@ -1,6 +1,6 @@
 # Kelly Betting Under Regime-Switching Markets
 
-A Monte Carlo simulatino exploring Kelly-style trading strategies under crash risk and regime-switching market conditions. 
+A Monte Carlo simulation exploring Kelly-style trading strategies under crash risk and regime-switching market conditions. 
 
 Starting from a simple fixed-edge betting model, I extended the simulation to include:
 
